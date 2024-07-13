@@ -1,1 +1,1 @@
-# odin-recipes
+This coding project revolves around creating an interactive recipe management system. It aims to demonstrate fundamental web development skills like designing user-friendly interfaces, ensuring smooth navigation, and integrating interactive features. The project will showcase proficiency in building a functional and accessible platform where users can easily discover, save, and share their favorite recipes.
